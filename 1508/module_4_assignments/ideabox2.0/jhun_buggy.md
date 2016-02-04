@@ -22,11 +22,11 @@
 * [All of my Yung-Commits](https://github.com/joshuajhun/ideaBox2.0/commits/)
 
 ### Provide a Screenshot of your Application
-* ![create](images/jhun_create.gif)
-* ![delete](images/jhun_deleteme.gif)
-* ![inline edit](images/jhun_inlineedit.gif)
-* ![like/dislike](images/jhun_like_dislike.gif)
-* ![truncate](images/jhun_out.gif)
+* [create]!(images/jhun_create.gif)
+* [delete]!(images/jhun_deleteme.gif)
+* [inline edit]!(images/jhun_inlineedit.gif)
+* [like/dislike]!(images/jhun_like_dislike.gif)
+* [truncate]!(images/jhun_out.gif)
 
 ## Completion
 
@@ -38,7 +38,7 @@
 * I completed the inline edit function
 
 ### Attach a .gif, or images of any extensions work being used on the site.
-* ![inline edit](images/jhun_inlineedit.gif)
+* [inline edit]!(images/jhun_inlineedit.gif)
 
 # Code Quality
 
